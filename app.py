@@ -5,7 +5,7 @@ app=Flask(__name__)
 
 @app.route('/',methods=['GET','POST'])
 def test():
-    return 'this is my Machine learning project and testing it'
+    return 'this is my Machine learning project and testing it and again testing'
 
 
 
